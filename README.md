@@ -8,8 +8,7 @@
 
 > A Machine Learning-based decision support tool designed to predict flight departure delays from New York (JFK, EWR, LGA) based on local weather conditions and temporal factors.
 
-**[TEST THE LIVE APPLICATION (STREAMLIT CLOUD)](#)** *(Replace `#` with your future Streamlit link)*
-
+**[TEST THE LIVE APPLICATION (STREAMLIT CLOUD)](https://flight-delay-predictor-nyc.streamlit.app/)** 
 ---
 
 ## Project Context
